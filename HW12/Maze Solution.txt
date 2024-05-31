@@ -1,0 +1,13 @@
+Name: Empty
+Size: 5
+Number of Exits: 1
+	 Exit 1: [2, 2]
+Steps: 4
+Start: [0, 0]
+
+***************************************** 
+Solution: 
+RIGHT
+RIGHT
+DOWN
+DOWN
